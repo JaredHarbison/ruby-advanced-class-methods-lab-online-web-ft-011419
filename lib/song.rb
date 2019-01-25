@@ -52,6 +52,9 @@ class Song
     sorted
   end 
   
+  def self.new_from_filename
+    
+  
 end
 
 
