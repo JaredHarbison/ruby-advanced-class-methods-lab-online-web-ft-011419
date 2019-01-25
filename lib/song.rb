@@ -56,6 +56,8 @@ class Song
     song_array = filename.split(" - ")
     song_array[1] = song_array[1].chomp(".mp3")
     song = self.new 
+    song_name = song_array[1]
+    song_title
   
 end
 
